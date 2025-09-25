@@ -1775,6 +1775,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shieldPowerup
       objectReference: {fileID: 0}
+    - target: {fileID: 9222697942184258641, guid: d17a7cba65e14b6478093c49fbba03dd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
