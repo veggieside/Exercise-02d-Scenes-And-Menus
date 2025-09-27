@@ -24,3 +24,17 @@ None
 
 Scott Trout
 
+
+
+Extra additions for points:
+
+Added background image I made myself
+
+Added shield powerup with a sprite created by me
+
+Made world larger and added a camera that follows the player
+
+Added background music and sound effects
+
+Added different font style for UI
+
